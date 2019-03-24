@@ -1,0 +1,4 @@
+#Fri Mar 22 17:13:23 IST 2019
+base.0=C\:\\Users\\Dipanshu\\Desktop\\Flower Classifier\\android\\tflite\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
+path.0=classes.dex
+renamed.0=classes.dex
